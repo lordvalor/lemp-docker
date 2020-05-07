@@ -9,7 +9,7 @@
 
 Do You need `docker` and `docker-compose` installed.
 
-if you already installed **Docket**  You need follow the instruction below
+if you already installed **Docker**  You need follow the instruction below
 
 ## Linux
 ```
