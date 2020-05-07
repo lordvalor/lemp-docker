@@ -12,7 +12,9 @@ Do You need `docker` and `docker-compose` installed.
 if you already installed **Docket**  You need follow the instruction below
 
 ## Linux
-`sudo curl -L https://github.com/docker/compose/releases/download/1.25.4/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose`
+```
+sudo curl -L https://github.com/docker/compose/releases/download/1.25.4/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+```
 
 **Permision**
 `sudo chmod +x /usr/local/bin/docker-compose`
